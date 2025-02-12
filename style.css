@@ -1,0 +1,87 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: rgb(225, 233, 239);
+    }
+
+    img {
+        width: 150px;
+        height: auto;
+        border-radius: 50%;
+    }
+  
+    section {
+        background: white;
+        margin: 20px;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+header {
+    background: #cddbfb;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+ 
+ 
+/* Bagian judul */
+h1 {
+    font-size: 28px;
+    color: #fffefe;
+}
+ 
+/* Bagian judul section */
+h2 {
+    font-size: 22px;
+    color: #3e5166;
+    margin-top: 20px;
+    padding-bottom: 5px;
+}
+ 
+/* List styling */
+ul {
+    padding-left: 15px;
+}
+ 
+ul li {
+    font-size: 16px;
+    margin: 5px 0;
+    color: #444;
+}
+ 
+/* Kontak */
+.contact {
+    text-align: center;
+    margin-top: 20px;
+}
+ 
+.contact{
+    background: #0056b3;
+}
+ 
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    padding: 10px;
+    background: #007BFF;
+    color: white;
+    border-radius: 5px;
+}
